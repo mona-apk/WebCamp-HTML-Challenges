@@ -71,7 +71,7 @@ main {
   }
   .list_item {
     width: 90%;
-    margin: 0 auto 30px auto;
+    margin: 0 auto 20px auto;
   }
   .list_item:last-child {
     margin-right: auto;
